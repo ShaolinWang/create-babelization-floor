@@ -193,7 +193,7 @@ function createApp(name, useYarn, usePnp) {
   }
 
   console.log();
-  console.log(`Creating a new React app in ${chalk.green(root)}.`);
+  console.log(`Creating a new babelization app in ${chalk.green(root)}.`);
   console.log();
 
   const packageJson = {
